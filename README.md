@@ -13,7 +13,7 @@
 - `-taskadd`    = add autorun of autoupdate.bat on startup in schedule task
 - `-taskremove` = remove autorun of autoupdate.bat on startup in schedule task
 
-#### [Download and Install](https://github.com/asmtron/rdpwrap/blob/master/binary-download.md)
+#### [Download and Install](https://github.com/neo0oen619/rdpwrap/blob/master/binary-download.md)
 
 # RDP Wrapper Library by Stas'M
 
